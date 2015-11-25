@@ -1,7 +1,7 @@
 # 20151124
-20151124做的leetcode题目
+＃20151124做的leetcode题目
 
-leetcode中的＃1
+＃leetcode中的＃1
 
 class Solution(object):
     def twoSum(self, nums, target):
@@ -18,7 +18,7 @@ class Solution(object):
         
         return None
 
-leetcode中的＃2
+＃leetcode中的＃2
 
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
