@@ -18,7 +18,7 @@ class Solution(object):
         
         return None
 
-leetcode中大＃2
+leetcode中的＃2
 
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
