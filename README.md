@@ -30,14 +30,14 @@ class Solution(object):
         a=0
         i=0
         while(l1 != None):
-            a += l1.val*10^(i)
+            a += l1.val*(10**(i))
             i+=1
             l1=l1.next
         
         b=0
         i=0
         while(l2 != None):
-            b += l2.val*10^(i)
+            b += l2.val*(10**(i))
             i+=1
             l2=l2.next
             
